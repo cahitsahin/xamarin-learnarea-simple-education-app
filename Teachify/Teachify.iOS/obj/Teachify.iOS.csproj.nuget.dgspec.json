@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/umit/Downloads/teachify/Teachify-master/Teachify/Teachify/Teachify.iOS/Teachify.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/umit/Downloads/teachify/Teachify-master/Teachify/Teachify/Teachify.iOS/Teachify.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/umit/Downloads/teachify/Teachify-master/Teachify/Teachify/Teachify.iOS/Teachify.iOS.csproj",
+        "projectName": "Teachify.iOS",
+        "projectPath": "/Users/umit/Downloads/teachify/Teachify-master/Teachify/Teachify/Teachify.iOS/Teachify.iOS.csproj",
+        "packagesPath": "/Users/umit/.nuget/packages/",
+        "outputPath": "/Users/umit/Downloads/teachify/Teachify-master/Teachify/Teachify/Teachify.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/umit/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/umit/Downloads/teachify/Teachify-master/Teachify/Teachify/Teachify/Teachify.csproj": {
+                "projectPath": "/Users/umit/Downloads/teachify/Teachify-master/Teachify/Teachify/Teachify/Teachify.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[4.0.1.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.FFImageLoading.Forms": {
+              "target": "Package",
+              "version": "[2.4.5.922, )"
+            },
+            "Xamarin.FFImageLoading.Transformations": {
+              "target": "Package",
+              "version": "[2.4.5.922, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.6.0.344457, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/umit/Downloads/teachify/Teachify-master/Teachify/Teachify/Teachify/Teachify.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/umit/Downloads/teachify/Teachify-master/Teachify/Teachify/Teachify/Teachify.csproj",
+        "projectName": "Teachify",
+        "projectPath": "/Users/umit/Downloads/teachify/Teachify-master/Teachify/Teachify/Teachify/Teachify.csproj",
+        "packagesPath": "/Users/umit/.nuget/packages/",
+        "outputPath": "/Users/umit/Downloads/teachify/Teachify-master/Teachify/Teachify/Teachify/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/umit/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "LiveXAML": {
+              "target": "Package",
+              "version": "[2.1.70, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[4.0.1.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.FFImageLoading.Forms": {
+              "target": "Package",
+              "version": "[2.4.5.922, )"
+            },
+            "Xamarin.FFImageLoading.Transformations": {
+              "target": "Package",
+              "version": "[2.4.5.922, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.6.0.344457, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

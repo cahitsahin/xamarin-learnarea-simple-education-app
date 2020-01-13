@@ -1,0 +1,4 @@
+C:\Users\hnaky\OneDrive\Masaüstü\teachify\Teachify-master\Teachify\Teachify\Teachify.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\hnaky\OneDrive\Masaüstü\teachify\Teachify-master\Teachify\Teachify\Teachify.Android\obj\Debug\81\build.props
+C:\Users\hnaky\OneDrive\Masaüstü\teachify\Teachify-master\Teachify\Teachify\Teachify.Android\obj\Debug\81\adb.props
+C:\Users\hnaky\OneDrive\Masaüstü\teachify\Teachify-master\Teachify\Teachify\Teachify.Android\obj\Debug\81\Teachify.Android.csprojAssemblyReference.cache
